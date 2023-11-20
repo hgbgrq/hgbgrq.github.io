@@ -2,7 +2,7 @@
 title: Text and Typography
 author: cotes
 date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
+categories: [한글, 테스트]
 tags: [typography]
 pin: true
 math: true
