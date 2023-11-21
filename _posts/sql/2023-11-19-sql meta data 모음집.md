@@ -2,7 +2,7 @@
 title: git 블로그 만들기
 author: 형장
 date: 2019-08-08 14:10:00 +0800
-categories: [db]
+categories: [db, meta query]
 tags: [db]
 render_with_liquid: false
 ---
