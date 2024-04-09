@@ -23,7 +23,7 @@ render_with_liquid: false
 ### 1. spring boot로 샘플 프로젝트를 생성하고 git에 연동하기
 
 intellig 를 사용하여 가장 기본적인 프로젝트를 만들어보자
-![img.png](./img/2024-01-05-docker로 spring boot 서버 구축하기-1.png)
+![img.png](/assets/img/post/2024-01-05-docker로 spring boot 서버 구축하기-1.png)
 
  
 
