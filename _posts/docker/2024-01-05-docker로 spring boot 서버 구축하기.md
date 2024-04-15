@@ -17,17 +17,8 @@ render_with_liquid: false
 : 2024-01-12 기준 github
 
 - 방식
-: github action을 사용하여 git에 특정 brach에 push가 되면 해당 branch를 사용하여 java를 build하여 jar를 만들어 ssh로 접근 가능한 
-서버에 jar파일을 전송하고 그 서버에서 dockerfile을 해당 jar파일을 이용하여 컨테이너를 구축하여 배포를 진행한다.
-
-### 1. spring boot로 샘플 프로젝트를 생성하고 git에 연동하기
-
-intellig 를 사용하여 가장 기본적인 프로젝트를 만들어보자
-![01](/assets/img/post/01.png)
-
- 
-
-
+: github action을 사용하여 git에 특정 brach에 push가 되면 해당 branch 를 사용하여 java 를 build 하여 jar를 만들어 ssh로 접근 가능한 
+서버에 jar파일을 전송하고 그 서버에서 dockerfile로 해당 jar파일을 이용하여 컨테이너를 구축하여 배포를 진행한다.
 
 
 - 실행중인 docker 컨테이너의 로그를 확인하는 방법 
